@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fa-IR">
+<head>
+<title>{{title}}</title>
+<meta charset="UTF-8">
+<meta name="author" content="M. MAD">
+<link rel="icon" type="image/png" href="../../favicon.png">
+<link rel="stylesheet" href="../base-style.css">
+<link rel="stylesheet" href="../x-style.css">
+<link rel="stylesheet" href="../fonts.css">
+</head>
+<body dir="rtl" align="right">
+<header>
+<h1 class="main-heading main-heading">{{header}}</h1>
+<nav>
+  <a href="/index.html">🏘 پروژه‌ها</a> &gt
+  <a href="/l/index.html">🏫 آزمایشگاه‌ها</a> &gt
+  <a href="../../index.html">🌞 آزمایشگاه انرژی خورشیدی</a> &gt
+  <a href="index.html">🔬 آزمایش‌ها</a> &gt
+  <a href="#">🔬 {{header}}</a>
+</nav>
+</header>
+<article>
+<div class="main-img-div main-heading">
+<!-- <img class="main-img" src="{{pic}}"> -->
+</div>
+<div class="main-text">
+<h3 class="fa-heading">اهداف آزمایش</h3>
+<ul>
+  {% for goal in goals %}
+    <li>{{goal}}</li>
+  {% endfor %}
+</ul>
+<h3 class="fa-heading">پیش‌نیازها</h3>
+{{_content}}
+<h3 class="fa-heading">اقلام مورد نیاز</h3>
+<ul>
+  {% for ingredient in ingredients %}
+    <li>{{ingredient}}</li>
+  {% endfor %}
+</ul>
+<h3 class="fa-heading">مراحل آزمایش</h3>
+<p>
+مراحل این آزمایش در ادامه آمده‌اند.
+</p>
+<h4 class="fa-heading">شبیه‌سازی مدار در نرم‌افزار <span class="en">Proteus</span> (اختیاری)</h4>
+<p>
+برای شبیه‌سازی مدار در نرم‌افزار
+<span class="en">Proteus</span>،
+بر پایه مطالب گفته‌شده در بخش «نرم‌افزار
+<span class="en">Proteus</span>»
+پیوست ۳ عمل کنید.
+</p>
+<h4 class="fa-heading">پیاده‌سازی عملی مدار</h4>
+<p>
+پیاده‌سازی عملی مدار خود دربردارنده دو زیربخش است که در ادامه توضیح داده می‌شوند.
+</p>
+<h5 class="fa-heading">ترجمه و بارگذاری کد آزمایش بر روی برد توسعه آردوینو</h5>
+<p>
+برای ترجمه و بارگذاری کد آزمایش، مانند آزمایش ۰ عمل کنید.
+</p>
+<h5 class="fa-heading">بستن مدار</h5>
+<p>
+برای بستن مدار، بر پایه مطالب گفته‌شده در زیربخش «توضیح سیم‌بندی و بستن مدار آزمایش» در بخش «پیش‌نیازها» عمل کنید.
+</p>
+</div>
+</article>
+</body>
+</html>

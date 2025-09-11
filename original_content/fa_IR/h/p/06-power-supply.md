@@ -1,0 +1,44 @@
+---
+title: "Panel 06: Power Supply"
+header: "Panel 06: Power Supply"
+author: M. MAD
+pic: img/06-power-supply.jpg
+name: "تابلو 06: منبع تغذیه"
+manufacturing_date: 2025
+category: تابلو
+manufacturer_name: اپتیک‌نیرو - <span class="en">Optic Niroo</span>
+manufacturer_country: ایران
+experiments:
+  - >
+    -
+---
+<p>
+تابلو 06 «منبع تغذیه
+<span class="en">Power Supply</span>»
+دربردارنده موارد زیر است:
+</p>
+<ul>
+  <li>
+    کانکتور مادگی تغذیه تابلو از برق شهری (کانکتور مادگی پاور رایانه) به‌همراه کلید قطع و وصل
+  </li>
+  <li>
+    1 عدد فیوز مینیاتوری دو کنتاکته برای قطع و وصل همزمان فاز و نول ورودی از برق شهر به‌همراه چراغ سیگنال
+  </li>
+  <li>
+    1 عدد کلید قارچی به‌همراه کلید برای قطع کردن تغذیه تابلو در مواقع اضطراری
+  </li>
+  <li>
+    خروجی مستقیم
+    <span class="en">220 V AC</span>
+  </li>
+  <li>
+    1 عدد منبع تغذیه
+    <span class="en">5 V DC</span>
+    به‌همراه کانکتورهای مادگی خروجی، فیوز و کلید مستقل در خروجی
+  </li>
+  <li>
+    1 عدد منبع تغذیه
+    <span class="en">12 V DC</span>
+    به‌همراه کانکتورهای مادگی خروجی، فیوز و کلید مستقل در خروجی
+  </li>
+</ul>
