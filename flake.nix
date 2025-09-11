@@ -1,7 +1,7 @@
 # Copyright 2025 M. MAD
 
 {
-  description = "Flake file for 'IoT Lab smart educational package' project";
+  description = "Flake file for 'Laboratory of Solar Energies smart educational package' project";
 
   inputs.flake-utils.url = "github:numtide/flake-utils";
 
