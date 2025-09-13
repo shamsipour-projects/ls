@@ -5,19 +5,20 @@
 <meta charset="UTF-8">
 <meta name="author" content="M. MAD">
 <link rel="icon" type="image/png" href="../../favicon.png">
+<link rel="stylesheet" href="../../fonts.css">
 <link rel="stylesheet" href="../base-style.css">
 <link rel="stylesheet" href="../x-style.css">
 <link rel="stylesheet" href="../fonts.css">
 </head>
 <body dir="rtl" align="right">
 <header>
-<h1 class="main-heading main-heading">{{header}}</h1>
+<h1 class="main-heading fa-heading">{{header}}</h1>
 <nav>
-  <a href="/index.html">🏘 پروژه‌ها</a> &gt
-  <a href="/l/index.html">🏫 آزمایشگاه‌ها</a> &gt
-  <a href="../../index.html">🌞 آزمایشگاه انرژی خورشیدی</a> &gt
-  <a href="index.html">🔬 آزمایش‌ها</a> &gt
-  <a href="#">🔬 {{header}}</a>
+  <a href="/index.html"><span class="nav-icon">🏘</span> پروژه‌ها</a> &gt
+  <a href="/l/index.html"><span class="nav-icon">🏫</span> آزمایشگاه‌ها</a> &gt
+  <a href="../../index.html"><span class="nav-icon">🌞</span> آزمایشگاه انرژی‌های خورشیدی</a> &gt
+  <a href="index.html"><span class="nav-icon">🔬</span> آزمایش‌ها</a> &gt
+  <a href="#"><span class="nav-icon">🔬</span> {{header}}</a>
 </nav>
 </header>
 <article>
@@ -31,13 +32,14 @@
     <li>{{goal}}</li>
   {% endfor %}
 </ul>
-{{_content}}
 <h3 class="fa-heading">اقلام مورد نیاز</h3>
 <ul>
   {% for ingredient in ingredients %}
     <li>{{ingredient}}</li>
   {% endfor %}
 </ul>
+<!-- <h3 class="fa-heading">پیش‌نیازها</h3> -->
+{{_content}}
 </div>
 </article>
 </body>
