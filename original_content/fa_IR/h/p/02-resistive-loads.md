@@ -1,6 +1,6 @@
 ---
-title: "Panel 02: Resistive Loads"
-header: "Panel 02: Resistive Loads"
+title: "تابلو 02: بارهای مقاومتی"
+header: "تابلو 02: بارهای مقاومتی"
 author: M. MAD
 pic: img/02-resistive-loads.jpg
 name: "تابلو 02: بارهای مقاومتی"

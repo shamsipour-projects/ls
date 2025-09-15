@@ -1,9 +1,9 @@
 ---
-title: "Panel 09: Charge Controller"
-header: "Panel 09: Charge Controller"
+title: "تابلو 09: شارژ کنترلر"
+header: "تابلو 09: شارژ کنترلر"
 author: M. MAD
 pic: img/09-charge-controller.jpg
-name: "تابلو 08: مخابراتی"
+name: "تابلو 09: شارژ کنترلر"
 manufacturing_date: 2025
 category: تابلو
 manufacturer_name: اپتیک‌نیرو - <span class="en">Optic Niroo</span>

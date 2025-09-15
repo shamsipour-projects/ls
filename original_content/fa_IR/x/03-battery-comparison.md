@@ -1,6 +1,6 @@
 ---
-title: "Experiment 03: Battery Comparisons"
-header: "Experiment 03: Battery Comparisons"
+title: "آزمایش 03: مقایسه دو نوع باتری"
+header: "آزمایش 03: مقایسه دو نوع باتری"
 author: M. MAD
 pic: img/03-battery-comparisons.png
 name: "آزمایش 03: مقایسه دو نوع باتری"

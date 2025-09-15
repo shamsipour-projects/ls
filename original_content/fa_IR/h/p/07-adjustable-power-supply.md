@@ -1,9 +1,9 @@
 ---
-title: "Panel 07: Adjustable Power Supply"
-header: "Panel 07: Adjustable Power Supply"
+title: "تابلو 07: منبع تغذیه قابل تنظیم"
+header: "تابلو 07: منبع تغذیه قابل تنظیم"
 author: M. MAD
 pic: img/07-adjustable-power-supply.jpg
-name: "تابلو 06: منبع تغذیه قابل تنظیم"
+name: "تابلو 07: منبع تغذیه قابل تنظیم"
 manufacturing_date: 2025
 category: تابلو
 manufacturer_name: اپتیک‌نیرو - <span class="en">Optic Niroo</span>

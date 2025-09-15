@@ -1,6 +1,6 @@
 ---
-title: "Panel 01: Solar Panels"
-header: "Panel 01: Solar Panels"
+title: "تابلو 01: پنل‌های خورشیدی"
+header: "تابلو 01: پنل‌های خورشیدی"
 author: M. MAD
 pic: img/01-solar-panels.jpg
 name: "تابلو 01: پنل‌های خورشیدی"

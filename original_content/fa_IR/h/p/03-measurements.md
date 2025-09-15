@@ -1,6 +1,6 @@
 ---
-title: "Panel 03: Measurements"
-header: "Panel 03: Measurements"
+title: "تابلو 03: اندازه‌گیری"
+header: "تابلو 03: اندازه‌گیری"
 author: M. MAD
 pic: img/03-measurements.jpg
 name: "تابلو 03: اندازه‌گیری"

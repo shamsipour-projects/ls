@@ -1,6 +1,6 @@
 ---
-title: "Experiment 04: Performance of Combiner Box"
-header: "Experiment 04: Performance of Combiner Box"
+title: "آزمایش 04: عملکرد کمباینر باکس"
+header: "آزمایش 04: عملکرد کمباینر باکس"
 author: M. MAD
 pic: img/04-performance-of-combiner-box.png
 name: "آزمایش 04: عملکرد کمباینر باکس"

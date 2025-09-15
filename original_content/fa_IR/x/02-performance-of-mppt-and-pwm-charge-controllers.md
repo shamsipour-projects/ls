@@ -1,6 +1,6 @@
 ---
-title: "Experiment 02: Performance of MPPT and PWM Charge Controllers"
-header: "Experiment 02: Performance of MPPT and PWM Charge Controllers"
+title: "آزمایش 02: عملکرد شارژکنترلر خورشیدی MPPT و PWM"
+header: "آزمایش 02: عملکرد شارژکنترلر خورشیدی MPPT و PWM"
 author: M. MAD
 pic: img/02-performance-of-mppt-and-pwm-charge-controllers.png
 name: "آزمایش 02: عملکرد شارژکنترلر خورشیدی MPPT و PWM"

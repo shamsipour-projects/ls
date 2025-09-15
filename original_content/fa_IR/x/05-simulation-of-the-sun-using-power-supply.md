@@ -1,6 +1,6 @@
 ---
-title: "Experiment 05: Simulation of the Sun using Power Supply"
-header: "Experiment 05: Simulation of the Sun using Power Supply"
+title: "آزمایش 05: شبیه‌سازی خورشید توسط منبع تغذیه"
+header: "آزمایش 05: شبیه‌سازی خورشید توسط منبع تغذیه"
 author: M. MAD
 pic: img/05-simulation-of-the-sun-using-power-supply.png
 name: "آزمایش 05: شبیه‌سازی خورشید توسط منبع تغذیه"

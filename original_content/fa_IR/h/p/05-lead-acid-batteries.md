@@ -1,9 +1,9 @@
 ---
-title: "Panel 05: Lead-Acid Batteries"
-header: "Panel 05: Lead-Acid Batteries"
+title: "تابلو 05: باتری‌های سرب-اسیدی"
+header: "تابلو 05: باتری‌های سرب-اسیدی"
 author: M. MAD
 pic: img/05-lead-acid-batteries.jpg
-name: "تابلو 04: باتری‌های سرب-اسیدی"
+name: "تابلو 05: باتری‌های سرب-اسیدی"
 manufacturing_date: 2025
 category: تابلو
 manufacturer_name: اپتیک‌نیرو - <span class="en">Optic Niroo</span>

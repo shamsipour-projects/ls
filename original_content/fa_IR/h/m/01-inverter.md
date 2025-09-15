@@ -1,6 +1,6 @@
 ---
-title: "Module 01: Inverter"
-header: "Module 01: Inverter"
+title: "ماژول 01: اینورتر"
+header: "ماژول 01: اینورتر"
 author: M. MAD
 pic: img/01-inverter.jpg
 name: "ماژول 01: اینورتر"

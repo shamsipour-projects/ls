@@ -1,6 +1,6 @@
 ---
-title: "Panel 08: Combiner Box"
-header: "Panel 08: Combiner Box"
+title: "تابلو 08: کمباینر باکس"
+header: "تابلو 08: کمباینر باکس"
 author: M. MAD
 pic: img/08-combiner-box.jpg
 name: "تابلو 08: کمباینر باکس"

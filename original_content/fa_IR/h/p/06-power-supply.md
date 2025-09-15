@@ -1,6 +1,6 @@
 ---
-title: "Panel 06: Power Supply"
-header: "Panel 06: Power Supply"
+title: "تابلو 06: منبع تغذیه"
+header: "تابلو 06: منبع تغذیه"
 author: M. MAD
 pic: img/06-power-supply.jpg
 name: "تابلو 06: منبع تغذیه"

@@ -1,6 +1,6 @@
 ---
-title: "Experiment 01: Solar Panel Performance Under Differnt Loads"
-header: "Experiment 01: Solar Panel Performance Under Differnt Loads"
+title: "آزمایش 01: عملکرد پنل خورشیدی زیر بارهای مختلف"
+header: "آزمایش 01: عملکرد پنل خورشیدی زیر بارهای مختلف"
 author: M. MAD
 pic: img/01-solar-panel-performance-under-different-loads.png
 name: "آزمایش 01: عملکرد پنل خورشیدی زیر بارهای مختلف"

@@ -1,6 +1,6 @@
 ---
-title: "Panel 04: Lithium Batteries"
-header: "Panel 04: Lithium Batteries"
+title: "تابلو 04: باتری‌های لیتیومی"
+header: "تابلو 04: باتری‌های لیتیومی"
 author: M. MAD
 pic: img/04-lithium-batteries.jpg
 name: "تابلو 04: باتری‌های لیتیومی"
